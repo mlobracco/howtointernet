@@ -56,7 +56,7 @@
     "uniqCompNum": 52,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/unnamed-71x58.png",
     "noImageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
