@@ -3357,6 +3357,9 @@ section.lazy-placeholder:after {
 .cid-rXhyjy7xna .card-img:hover .mbr-section-btn {
   opacity: 1;
 }
+.cid-rXhyjy7xna .mbr-section-title {
+  text-align: right;
+}
 .cid-rXhxr3ww5R {
   padding-top: 30px;
   padding-bottom: 30px;
